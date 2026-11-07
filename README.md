@@ -1,16 +1,18 @@
-## Hi there 👋
+## # Hey there! 👋 I'm Damian
 
-<!--
-**damianhivanov2026-lab/damianhivanov2026-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at TUES (Technological School Electronic Systems), Sofia.
 
-Here are some ideas to get you started:
+💻 Currently learning programming and exploring software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm learning
+- C
+- Python
+- Git & GitHub
+
+### 🎯 My goals
+- Improve my programming skills
+- Build my first projects
+- Explore software engineering and AI
+
+### 📫 About me
+I'm a student passionate about technology, programming and learning new things.
